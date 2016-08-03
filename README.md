@@ -2,6 +2,8 @@ Dockerfile for Storycollab (aka Ensemble)
 =========================================
 Docker image to set up a [Stanford HCI story-collab](https://github.com/StanfordHCI/story-collab) system.
 
+Ensemble was a @BrownInstitute funded project out of @StanfordHCI several years ago. We're interested in reviving it for a collaborative storytelling project about NYC.
+
 # WARNINGS
 There is lots of wet paint and broken code. Do not trust me.
 
